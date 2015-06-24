@@ -5,18 +5,18 @@
     <title>Pro-Technic iznajmljivanje alata </title>
     <!-- the meta tag scales the web page so that it displays correctly on all resolutions -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css"/>
     <!-- the style.css is our CSS file to modify the bootstrap -->
-    <link rel="stylesheet" href="bootstrap/css/style.css"/>
+    <link rel="stylesheet" href="/bootstrap/css/style.css"/>
 </head>
 <body>
     <!-- import the JQUERY files for use with bootstrap -->
-    <script src="jq/jquery-1.11.3.min.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="/jq/jquery-1.11.3.min.js"></script>
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- the menu -->
     <div class="navbar navbar-inverse navbar-static-top">
-        <div class="container">
+        <div class="container-float">
             <!-- text that will appear as the name of the menu -->
             <a href="#" class="navbar-brand">Pro-Technic</a>
 
